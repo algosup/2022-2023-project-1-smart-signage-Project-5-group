@@ -16,9 +16,9 @@ SignAll is a company which manufacture luminous signage for companies. They want
 
 ## Documents
 
-[Functional Specifications](#) <br>
-[Technical Specifications](#) <br>
-[Software Architecture Design Choices](#) <br>
-[Project Execution Plan](#)<br>
-[Test Plan](#)<br>
-[The Database of Bug Reports](#)
+[Functional Specifications](./Documents/Functionnal%20Specification.md) <br>
+[Technical Specifications](./Documents/Technical%20Specification.md) <br>
+[Software Architecture Design Choices](./Documents/) <br>
+[Project Execution Plan](./Documents/)<br>
+[Test Plan](./Documents/test%20plan.csv)<br>
+[The Database of Bug Reports](./Documents/bug%20report.csv)
