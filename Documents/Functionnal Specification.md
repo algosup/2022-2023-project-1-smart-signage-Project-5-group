@@ -85,6 +85,6 @@ If the software stop working due to a crash for example, the device will not be 
 
 # Glossary
 
-LED : a LED is an electric component which create light when a current goes through it. 
+LED : an LED is an electric component which create light when a current goes through it. 
 
 Signage : a signage is all LEDs together which shapes the logo that the client needs.
