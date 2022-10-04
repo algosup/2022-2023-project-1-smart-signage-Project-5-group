@@ -47,6 +47,16 @@ The problem is that luminous signage is consuming a lot of energy and in case of
 
 The problem is worth solving because energy consumtion is a big problem in the world. It is also a problem for the environment. It also make it faster to fix the problem resulting in a better reputation for the company.
 
+## 1.d. Goals
+
+    As a user, I want to be able to monitor the luminous signage in order to know if it is working or not.
+
+    As a user, I want to be able to switch on and off the luminous signage in order to save energy.
+
+    As a user, I want to be able to change the brightness of the luminous signage in order to save energy.
+
+    As a user, I want to be able to know if the luminous signage is not behaving as intended in order to prevent damage.
+
 # 2. Solutions
 
 ## 
