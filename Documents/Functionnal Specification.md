@@ -29,6 +29,10 @@ Thanks to Appsolu, he will be able to switch off and on the lights in a much eas
 The same Mike would also like that, for the sake of energy saving, the power given to the LEDs reduce when the outside luminosity is lower than usual, during night, bad weather or during an eclipse.
 Thanks to Appsolu, some captors will be able to recognize a drop of luminosity and adapt the power gave to the LEDs.
 
+**Scenario 4 : Stephany**
+
+Stephany is possessing a small store with a signage. Concerned by the rise of the electricty price and the possible shortage incoming, she wants to be sure that in case of a shortage during this winter, her signage will lower its consumption or shut itself down because she could have troubles with the autorities. Appsolu will include a functionality to ensure that the signage will respect the laws.
+
 # Out of scope
 
 This version will **not** support these features:
