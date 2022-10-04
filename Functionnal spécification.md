@@ -82,3 +82,9 @@ If the board stop working or breaks, the device will not be able to send data to
 ## Software
 
 If the software stop working due to a crash for example, the device will not be able to send data to the user. It will be a problem for the user because he will not be able to check if the signage is working or not.
+
+# Glossary
+
+LED : a LED is an electric component which create light when a current goes through it. 
+
+Signage : a signage is all LEDs together which shapes the logo that the client needs.
