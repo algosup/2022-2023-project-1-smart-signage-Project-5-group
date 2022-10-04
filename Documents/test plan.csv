@@ -1,16 +1,14 @@
-N°Test,Test explanation,Username, date of report, date of test, creation of a bug?
-1, What happens when a led is broken?, 04/10/2022
-2, What happens when a battery is broken?, 04/10/2022
-3, What happens when a sensor is broken?, 04/10/2022
-4, What happens when a LoRa module is broken?, 04/10/2022
-5, What happens when a LoRa antenna is broken?, 04/10/2022
-6, What happens if the user passes in front of the sensor?, 04/10/2022
-7, What happens if the led overheat?, 04/10/2022
-8, What happens if the battery is overcharged?, 04/10/2022
-9, What happens if the battery is undercharged?, 04/10/2022
-10, What happens if the battery is over discharged?, 04/10/2022
-11, What happens if the battery is under discharged?, 04/10/2022
-12, What happens if the battery is over heated?, 04/10/2022
-13, What happens if there is a short circuit?, 04/10/2022
-14, What happens if there is a data leak?, 04/10/2022
-15, What happens if the user is not in the LoRa coverage area?, 04/10/2022
+N°Test,Test explanation,Username, date of report, date of test, How it will be tested? ,creation of a bug?
+1, What happens when a led is broken?, Théo, 04/10/2022, UNDETERMINED, 
+2, What happens when a battery is broken?, Théo, 04/10/2022, UNDETERMINED, 
+3, What happens when a sensor is broken?, Théo, 04/10/2022, UNDETERMINED, 
+4, What happens when a LoRa module is broken?, Théo, 04/10/2022, UNDETERMINED, 
+5, What happens when a LoRa antenna is broken?, Théo, 04/10/2022, UNDETERMINED, 
+6, What happens if the user passes in front of the sensor?, Théo, 04/10/2022, UNDETERMINED, 
+7, What happens if the led overheat?, Théo, 04/10/2022, UNDETERMINED, 
+8, What happens if the battery is overvoltage?, Théo, 04/10/2022, UNDETERMINED,
+9, What happens if the battery is undervoltage?, Théo, 04/10/2022, UNDETERMINED
+12, What happens if the battery is over heated?, Théo, 04/10/2022, UNDETERMINED
+13, What happens if there is a short circuit?, Théo, 04/10/2022, UNDETERMINED
+14, What happens if there is a data leak?, Théo, 04/10/2022, UNDETERMINED
+15, What happens if the user is not in the LoRa coverage area?, Théo, 04/10/2022, UNDETERMINED
