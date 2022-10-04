@@ -72,3 +72,13 @@ The data will be sent in an encrypted way to ensure that only the user who is ab
 # Bug management
 
 Every detected bug will be saved in a database with who found it and when. The person finding the bug will also have to provide a detailled description on how to reproduce it to ensure that the software engineer will be able to fix it. When fixed, the software engineer will have to precise when and how he fixed it.
+
+# Risks
+
+## Hardware
+
+If the board stop working or breaks, the device will not be able to send data to the user. It will be a problem for the user because he will not be able to check if the signage is working or not.
+
+## Software
+
+If the software stop working due to a crash for example, the device will not be able to send data to the user. It will be a problem for the user because he will not be able to check if the signage is working or not.
