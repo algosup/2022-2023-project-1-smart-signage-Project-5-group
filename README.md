@@ -19,6 +19,6 @@ SignAll is a company which manufacture luminous signage for companies. They want
 [Functional Specifications](./Documents/Functionnal%20Specification.md) <br>
 [Technical Specifications](./Documents/Technical%20Specification.md) <br>
 [Software Architecture Design Choices](./Documents/) <br>
-[Project Execution Plan](./Documents/)<br>
+[Project Execution Plan](https://trello.com/invite/b/TVyxNdm8/089e5f9c832f1972067d547d4334055f/appsolu)<br>
 [Test Plan](./Documents/test%20plan.csv)<br>
 [The Database of Bug Reports](./Documents/bug%20report.csv)
