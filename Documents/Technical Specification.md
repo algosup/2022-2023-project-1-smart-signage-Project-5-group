@@ -17,6 +17,16 @@ Clément Caton
 ## Last updated
 05-10-2022
 
+## Summary
+
+- [1. Introduction](#1-introduction)
+- [2. Solutions](#2-solutions)
+- [3. Further Considerations](#3-further-considerations)
+- [4. Work Breakdown Structure](#4-work-breakdown-structure)
+- [5. Conclusion](#5-conclusion)
+- [6. References](#6-references)
+
+
 # 1. Introduction
 
 ## 1.a. Overview
@@ -91,7 +101,7 @@ Clément Caton
 
 # 3. Further Considerations
 
-## 3.a. Third party services and libraries
+## 3.a. Third party services
 
 - APIs
 
