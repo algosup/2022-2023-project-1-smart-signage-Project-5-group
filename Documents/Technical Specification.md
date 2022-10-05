@@ -70,8 +70,6 @@ Clément Caton
 
 - A user-friendly interface
 
-<!--## Future goals-->
-
 # 2. Solutions
 
 ## 2.a. Current solution
