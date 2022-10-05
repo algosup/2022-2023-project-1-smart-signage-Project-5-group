@@ -192,4 +192,4 @@ Which gives a total of 28.00€.
 
 - https://www.thethingsnetwork.org/
 
-- https://github.com/github/copilot-docs
+- https://github.com/github/copilot-docs/
