@@ -6,6 +6,17 @@
 Malo Archimbaud
 Last update : 04/10/22
 
+# Summary
+
+- [Overview](#overview)
+- [Scenarios](#scenarios)
+- [Out of scope](#out-of-scope)
+- [Description of the functionalities](#description-of-the-functionalities)
+- [Bug management](#bug-management)
+- [Risks](#risks)
+- [Glossary](#glossary)
+
+
 # Overview
 
 SignAll is a company which manufacture luminous signage for companies. They want us to create a new device named Appsolu. This device will make their signage smart by being connected.
