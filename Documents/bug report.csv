@@ -1,0 +1,3 @@
+N°Issues, Issues, Username, date of report, date of fixed, how to fix
+1, We can not use it in vierzon the LoRa system is not covering the area, Théo, 03/10/2022, NOT FIXED, We need to install a gateway in vierzon
+2, We can not flash the board(interact with it by the code) openOCD seems to not be up to date, Théo, 03/10/2022, NOT FIXED, We need to have a st-link to flash the board
