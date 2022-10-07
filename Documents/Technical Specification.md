@@ -62,11 +62,15 @@ Clément Caton
 
 - As a user, I want to be able to monitor the luminous signage in order to know if it is working or not.
 
+- As a user, I want to be able to monitor the temperature of the hardware in order to prevent its degradation.
+
 - As a user, I want to be able to switch on and off the luminous signage in order to save energy.
 
 - As a user, I want to be able to change the brightness of the luminous signage in order to save energy.
 
 - As a user, I want to be able to know if the luminous signage is not behaving as intended in order to prevent damage.
+
+- As a user, I want to be able to create a schedule for the luminous signage in order to do all of the above automatically.
 
 ## 1.e. Out of scope
 
