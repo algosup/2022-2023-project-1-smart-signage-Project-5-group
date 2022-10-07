@@ -46,7 +46,7 @@ Stephany is possessing a small store with a signage. Concerned by the rise of th
 
 # Out of scope
 
-This version will **not** support these features:
+This version will **not** support this feature:
 
  - A user-friendly interface
 
@@ -58,15 +58,15 @@ It will allow the user to check if the LEDs are on, off or if they are broken. T
 
 ## Signage monitoring
 
-It will allow the user to switch the signage on and off remotely. The user will also be able to change the brightness of the signage.
+It will allow the user to switch the signage on and off remotely. The user will also be able to change the brightness of the signage. He will be able to choose via a scrolling bar.
 
 ## Compliance with laws
 
-Thanks to this functionality, the user will be sure that the usage of the signage will be in phase with environmental and ecological laws.
+Thanks to this functionality, the user will be sure that the usage of the signage will be in phase with environmental and ecological laws. The user will have to tell his schedule to be sure that the signage is not shutting himself down when the store open.
 
 ## Auto brightness
 
-This feature will ensure that the brightness of the signage will automatically adapt in function of the ambiant luminosity.
+This feature will ensure that the brightness of the signage will automatically adapt in function of the ambiant luminosity. For example, when it will be very sunny outside, the brightness will be at the maximum level. If it is cloudy outside, the brightness will be at 60% and if it is nighttime the brightness will be at 20%.
 
 ## Money savings
 
@@ -74,11 +74,11 @@ When the price of energy will increase, the signage will be able to reduce its e
 
 ## Battery warnings
 
-The device will be able to send a message when the battery reach a low level. It will allow the user to change the battery before losing signal with the device.
+The device will be able to send a message when the battery reach a low level. It will allow the user to change the battery before losing signal with the device. We consider the device will have low battery at 10% and it will send another message if the user let it reaches 5% battery.
 
 ## Schedule programmation
 
-The user will be able to give his schedule to be sure that the signage are switched on only when his store his open.
+The user will be able to give his schedule to be sure that the signage are switched on only when his store his open. For example, he will be able to program that he is closed the Monday and open from Tuesday to Saturday from 10 AM to 7 PM.
 
 ## Data encryption
 
@@ -87,6 +87,13 @@ The data will be sent in an encrypted way to ensure that only the user who is ab
 # Bug management
 
 Every detected bug will be saved in a database with who found it and when. The person finding the bug will also have to provide a detailled description on how to reproduce it to ensure that the software engineer will be able to fix it. When fixed, the software engineer will have to precise when and how he fixed it.
+
+Example : 
+
+| N°Issue | Issue | Username | Date of report | Date of fix | How to fix |
+| --------| ----- | -------- | -------------- | ----------- | ---------- |
+|         |       |          |                |             |            |
+
 
 # Risks
 
@@ -97,6 +104,14 @@ If the board stop working or breaks, the device will not be able to send data to
 ## Software
 
 If the software stop working due to a crash for example, the device will not be able to send data to the user. It will be a problem for the user because he will not be able to check if the signage is working or not.
+
+## Unsatisfaction
+
+The client could be unsatisfied with our product because it could not fullfill client requirement.
+
+## Delay
+
+The project could be delayed because of an hardware problem which could prevent us to keep a good pace.
 
 # Glossary
 
