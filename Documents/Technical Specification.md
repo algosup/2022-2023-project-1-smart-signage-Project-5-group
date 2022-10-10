@@ -172,6 +172,8 @@ Which gives a total of 348.00€.
 
 - Delivering the project late.
 
+- Having the connection not soldered properly resulting in having the hardware not working.
+
 # 4. Work Breakdown Structure
 
 - We follow a strict timeline using trello as a support tool. We have a lot of tasks to do and we have to be sure that we are on time.
