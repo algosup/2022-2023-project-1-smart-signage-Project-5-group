@@ -112,6 +112,12 @@ Clément Caton
 
     I don't know how to do it with the pins we have at our disposal but I think it is possible. For example using the I2C protocol.
 
+- As a user I want the signage to automatically adapt it's brightness to the outside light in order to save energy.
+
+    A module to monitor the light will be used to calculate the brightness of the signage.
+
+    The function should take the light as an input and change the brightness of the signage.
+
 - As a user, I want to be able to see the error code on the device with a press of a button in case I forgot what were the errors.
 
     In the code and the manual, error codes will be constant integer and will be displayed using a 7 segment display. The display won't turn on except if the user presses a button. This will save energy.
