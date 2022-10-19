@@ -98,9 +98,11 @@ Clément Caton
 
 - As a user, I want to be able to know if the luminous signage is not behaving as intended in order to prevent damage.
 
-    A module to monitor the voltage going through a cable will be used to calculate if all the leds are working in accordance with what they should be. 
+    A sensor monitoring the voltage going through the transformator will be used to know if the luminous signage is working or not.
 
-    The function should take the voltage, the number of leds and the intensity of the lights as an input and return a boolean, true if the luminous signage is working as intended and false if it is not.
+    The sensor used has an accuracy of 0.2% which allow us to know if the current drop is normal or not in a line having up to 250 Leds. If a sign is having more than 250 Leds, we will have to wait for 2 Leds to be off to know if the current drop is normal or not.
+
+    If the voltage drops by at least 1/250th of it's usual lowest value, the function will return true, if it is not the case, it will return false.
 
 - As a user, I want to be able to create a schedule for the luminous signage in order to do all of the above automatically.
 
@@ -187,15 +189,23 @@ Depending on how long the batterie lasts, the price may vary.
 
 To have a functional project we need :
 
-- 2 AA batterie : 3.00€
+- 1 LoRaWAN Gateway : 300.00€
 
 - 1 ST-Link : 20.00€
 
 - 1 LoRa-E5 Development Kit : 25.00€
 
-- 1 LoRaWAN Gateway (If need be) : 300.00€
+- 1 USB to TTL : 5.00€
 
-Which gives a total of maximum 348.00€.
+- Sensors : 5.00€
+
+- 1 Blue Pill : 2.00€
+
+For the first deployment it will cost 52€.
+
+For all other deployment it will cost 32€. 
+
+If a LoRaWAN Gateway is needed, it will cost an additional 300€.
 
 ## 3.c. Security
 
