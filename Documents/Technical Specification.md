@@ -106,10 +106,6 @@ Clément Caton
 
     With a certain LoRaWAN signal, The LoRa-E5 board will re program the arduino daughter board with a new schedule. Inside the schedule, there will be the time when the signage should be on or off and the brightness.
 
-    <!--
-    TODO: Add a function to reprogram the arduino daughter board
-    -->
-
     I don't know how to do it with the pins we have at our disposal but I think it is possible. For example using the I2C protocol.
 
 - As a user I want the signage to automatically adapt it's brightness to the outside light in order to save energy.
@@ -197,9 +193,9 @@ To have a functional project we need :
 
 - 1 LoRa-E5 Development Kit : 25.00€
 
-- 1 LoRaWAN Gateway : 300.00€
+- 1 LoRaWAN Gateway (If need be) : 300.00€
 
-Which gives a total of 348.00€.
+Which gives a total of maximum 348.00€.
 
 ## 3.c. Security
 
