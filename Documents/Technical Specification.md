@@ -88,7 +88,7 @@ Clément Caton
 
     With a certain LoRaWAN signal, The LoRa-E5 board will say to the daughter board if the signage should be on or off.
 
-    The arduino daughter board will wait and listen to one of it's digital pins and if it receives a signal in this pin, it will switch on or off the signage.
+    The arduino board and the LoRa-E5 board will communicate through the UART protocol and upon a certain signal, it will switch on or off the signage.
 
 - As a user, I want to be able to change the brightness of the luminous signage in order to save energy.
 
