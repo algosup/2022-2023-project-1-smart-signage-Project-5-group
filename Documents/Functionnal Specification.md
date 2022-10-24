@@ -4,7 +4,7 @@
 # Functionnal specification
 
 Malo Archimbaud
-Last update : 18/10/22
+Last update : 24/10/22
 
 # Summary
 
@@ -41,7 +41,7 @@ Currently, he has to spend money on having external people working with Signall.
 **Greta**
 
 Greta is a citizen. She is 22 years old. She lives in Vierzon. She is single and she has a cat at home. She is an ecological activist. She participated in a lot of demonstration et pacific walk in favor of the planet and the ecology in general. She showers once a week and buy her food in local store that are in lines with her principles.
-She wants to help the planet. She already switch off the signage that she found when she vibes in the city at 3 AM but she would like that all those useless signs are automatically switched off.
+She wants to help the planet. She already switch off the signage that she found when she hangs out in town at 3 AM but she would like that all those useless signs are automatically switched off.
 
 # Scenarios
 
@@ -84,10 +84,6 @@ This feature will ensure that the brightness of the signage will automatically a
 ## Money savings
 
 When the price of energy will increase, the signage will be able to reduce its energy consumption to ensure that the user is not overpaying.
-
-## Battery warnings
-
-The device will be able to send a message when the battery reach a low level. It will allow the user to change the battery before losing signal with the device. We consider the device will have low battery at 10% and it will send another message if the user let it reaches 5% battery.
 
 ## Schedule programmation
 
