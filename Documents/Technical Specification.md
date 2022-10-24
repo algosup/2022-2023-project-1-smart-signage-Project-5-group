@@ -127,10 +127,9 @@ Clément Caton
     2:  "No Power"
     3:  "OverHeating"
     4:  "OverCooling"
-    5:  "Low Battery"
-    6:  "Sensor is broken"
-    7:  "Device not connected"
-    8:  "LoRa is not responding"
+    5:  "Sensor is broken"
+    6:  "Device not connected"
+    7:  "LoRa is not responding"
     ```
 
 ## 1.e. Out of scope
@@ -177,15 +176,6 @@ Clément Caton
     If the support of the things network stops, we will have to find another way of communication between the luminous signage and the client.
 
 ## 3.b. Cost analysis
-
-### 3.b.1. Cost per month
-
-- 1 AA batteries cost around 1.5€.
-Depending on how long the batterie lasts, the price may vary.
-
-- In the worst case scenario, the batteries only lasts six month, that means that the cost per month is 0.50€. 
-
-### 3.b.2. One time cost
 
 To have a functional project we need :
 
