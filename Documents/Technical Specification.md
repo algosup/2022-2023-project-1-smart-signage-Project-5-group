@@ -122,15 +122,17 @@ Clément Caton
 
     The function controlling the 7 segment display will take the error code as an input and display it on the 7 segment display. 
     ```go
-    0:  "No led"
-    1:  "Led is broken"
-    2:  "No Power"
-    3:  "OverHeating"
-    4:  "OverCooling"
-    5:  "Sensor is broken"
-    6:  "Device not connected"
-    7:  "LoRa is not responding"
+    1:  "No led"
+    2:  "Led is broken"
+    3:  "No Power"
+    4:  "OverHeating"
+    5:  "OverCooling"
+    6:  "Sensor is broken"
+    7:  "Device not connected"
+    8:  "LoRa is not responding"
     ```
+
+    These error codes will also be used in the communication between the LoRa-E5 board and the things network. On one byte, each bit will be an error and of none is set to True, it would mean that there is no error.
 
 ## 1.e. Out of scope
 
