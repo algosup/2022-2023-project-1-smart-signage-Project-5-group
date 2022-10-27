@@ -16,7 +16,7 @@ We can not connect the board to the LoRa network,
 
 Since the board has only one antenna capable of connecting to the network from 10km away, 
 
-And the nearest one is at bourges (about 40km away).
+And the nearest one is at bourges (about 40km away),
 
 ## Solutions 
 
@@ -60,10 +60,11 @@ And we will be able to pass by another network than LoRa.
 
 ### 3. Change of network
 
-We can change the whole network, we could use Sigfox or the wifi network.
+
+We can change the whole network, we could use Sigfox or the wifi network, 
 
 area covered by sigfox : 
-![SigFox]("./images/../../France%20Coverage%20sigfox.png.png)
+![SigFox]("./images/../../France%20Coverage%20sigfox.png")
 
 Vierzon area covered by sigfox :
 
