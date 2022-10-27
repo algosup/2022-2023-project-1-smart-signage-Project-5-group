@@ -2,6 +2,7 @@
 
 Made: 2022-10-07
 
+by: Group 5 
 
 ## Major problems with the board
 
@@ -29,7 +30,7 @@ It worked for the group 8, because they bought a st-link.
 
 We can install a Gateway near the school to be able to connect to the network. 
 
-If we do not we will not be able to try the features
+If we do not we will not be able to try the features.
 
 
 | pros      | cons |
@@ -59,6 +60,7 @@ And we will be able to pass by another network than LoRa.
 
 ### 3. Change of network
 
+
 We can change the whole network, we could use Sigfox or the wifi network, 
 
 area covered by sigfox : 
@@ -76,13 +78,13 @@ Vierzon area covered by sigfox :
 
 ### Solution bis
 
-all the project class can take place in bourges
+All the project class can take place in Bourges.
 
 ## Minor problems with the board
 
 ### 1. We do not have an internal clock 
 
-We are limited by this problem, because we do not have an internal clock,
+We are limited by this problem, because we do not have an internal clock.
 
 ## Problems with the CP2102 module (USB to TTL)
 
